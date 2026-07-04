@@ -49,6 +49,12 @@ Everything is saved to a folder on your **Desktop**: `‹Name›'s Pre-K Year Bo
 - **Everything stays on your computer.** Nothing is uploaded to the author or anyone else.
 - The sign‑in uses a temporary browser profile that is **wiped after each run**.
 
+## Uninstall
+Drag **Pre‑K Year Book** from your **Applications** folder to the **Trash**. That's it — the app doesn't install anything else on your Mac.
+
+- Your downloaded photos and videos (the `‹Name›'s Pre-K Year Book` folder on your Desktop) are **not** removed — keep or delete them as you like.
+- *(Optional)* To also clear the app's logs, delete the folder `~/Library/Logs/Pre-K Year Book`.
+
 ---
 
 _Questions or problems? Open an [issue](../../issues)._
