@@ -8,7 +8,9 @@ Save your child's **Lillio** (HiMama) daycare photos and videos to your own Mac 
 
 ## Download
 
-➡️ Go to the [**Releases**](../../releases/latest) page and download **`Pre-K Year Book.dmg`**.
+### ⬇️ [**Download Pre-K Year Book (.dmg)**](https://github.com/ilkera/prek_yearbook/releases/download/v1.0.0/Pre-K.Year.Book.dmg)
+
+*(313 MB — macOS, Apple Silicon. That's the only file you need.)*
 
 ## What you need
 - A **Mac with Apple Silicon** (M1 or newer) running **macOS 12 or later**
