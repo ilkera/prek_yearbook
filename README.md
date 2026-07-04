@@ -4,6 +4,8 @@ Save your child's **Lillio** (HiMama) daycare photos and videos to your own Mac 
 
 > **Unofficial tool.** Not affiliated with, endorsed by, or sponsored by Lillio (HiMama) or any school or daycare. Made by a parent. Provided "as is," with no warranty.
 
+> 💛 **A note from a fellow parent:** this is a free, personal project made for our class families. Please keep it within our class and don't redistribute it more widely. Thank you!
+
 ---
 
 ## Download
