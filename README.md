@@ -8,7 +8,7 @@ Save your child's **Lillio** (HiMama) daycare photos and videos to your own Mac 
 
 ## Download
 
-### ⬇️ [**Download Pre-K Year Book (.dmg)**](https://github.com/ilkera/prek_yearbook/releases/download/v1.0.0/Pre-K.Year.Book.dmg)
+### ⬇️ [**Download Pre-K Year Book (.dmg)**](https://github.com/ilkera/prek_yearbook/releases/latest/download/Pre-K.Year.Book.dmg)
 
 *(313 MB — macOS, Apple Silicon. That's the only file you need.)*
 
