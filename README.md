@@ -21,6 +21,9 @@ There's nothing else to install — everything the app needs is bundled inside i
 
 ## Install
 1. Open the downloaded `.dmg` and **drag “Pre-K Year Book” into Applications**.
+
+   > **Important:** Drag the app to **Applications first, then eject the `.dmg` right away** (click the ⏏︎ next to it in Finder, or drag it to the Trash). **Never run the app from inside the disk-image window** — doing so can make macOS freeze while it scans the app. Always launch it from your **Applications** folder.
+
 2. **Open it the first time** (macOS asks once because the app isn't from the App Store):
    1. Double‑click the app in Applications.
    2. macOS shows *"Apple could not verify…"* — click **Done**. **⚠️ Do NOT click "Move to Trash"** (that deletes the app).
