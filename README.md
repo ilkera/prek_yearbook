@@ -21,8 +21,15 @@ There's nothing else to install — everything the app needs is bundled inside i
 
 ## Install
 1. Open the downloaded `.dmg` and **drag “Pre-K Year Book” into Applications**.
-2. **First launch only:** right‑click (or Control‑click) the app → **Open** → **Open**.
-   *(macOS shows a warning because the app isn't signed by Apple; this one‑time step tells it you trust the app.)*
+2. **First launch only** — because the app isn't from the App Store, macOS asks once:
+   - Double‑click the app. If macOS says it *"cannot be opened"* or *"could not verify"*:
+   - Open **System Settings → Privacy & Security**, scroll down, and click **Open Anyway** next to "Pre‑K Year Book", then confirm with your password/Touch ID.
+   - *(On older macOS versions you can instead **right‑click the app → Open → Open**.)*
+
+> **If macOS says the app is "damaged":** it just means the download was quarantined. Open the **Terminal** app, paste the line below, press Return, then open the app again (needed once):
+> ```
+> xattr -cr "/Applications/Pre-K Year Book.app"
+> ```
 
 ## Use
 1. Read and accept the terms.
